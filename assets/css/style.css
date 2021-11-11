@@ -2,7 +2,8 @@
 
 :root{
     --dark: #2b2d42;
-    --light: #adb5bd;
+    //--light: #adb5bd;
+    --light: red;
     --border: #dee2e6;
     --border-btn: #edf2f4;
 }
