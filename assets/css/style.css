@@ -66,8 +66,8 @@ a {
 }
 
 #header nav{
-    /*background-color: #06d6a0;*/
-    background-color: red;
+    background-color: #06d6a0;
+   /* background-color: red; */
     padding: 1em 0;
     width: 100%;
 }
